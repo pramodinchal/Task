@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(241, 231, 231);
+  }
+  .container2{
+    margin-top: 15px;
+     background-color: rgb(255, 255, 255);
+     width: 286px;
+     height: 240px;
+     margin-left: 100px;
+     border-radius: 10px;
+     
+  }
+  
+  .header h6{
+    padding-top: 6px;
+    margin-top:  0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p{
+    text-align: center;
+    font-size: xx-small;
+    color: rgb(157, 151, 151);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 15px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+  
+ }
+
+ button{
+   padding: 0.5px 22px;
+   font-size: 5%;
+   height: 20px;
+ }
+ .btn-group{
+    margin-left: 18px;
+ }
+
+ form p{
+   text-align: center;
+   font-size: xx-small;
+   color: rgb(157, 151, 151);
+   font-family: Arial, Helvetica, sans-serif;
+   margin-right: 15px;
+   margin-top: 2px;
+   margin-bottom: 0px;
+ }
+ select{
+   width: 143px;
+   margin-left: 17px;
+   margin-top: 7px;
+
+ }
+ input{
+   height: 12px;
+   width: 66px;
+ }
+ #input{
+   width: 16px;
+   height: 7px;
+ }
+ 
+ .custom-control-input{
+   margin-left: 17px;
+   width: 8px;
+   margin-top: 5px;
+   height: 8px;
+}
+.custom-control-label{
+   font-size: 6px;
+}
+#nxtbtn2{
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-top: 10px;
+  border-radius: 2px;
+  margin-left: 118px;
+  width: 46px;
+  font-size: xx-small;
+  background-color: rgb(1, 172, 252);
+  color: white;
+ }
+ .btn-primary.active {
+   background-color:rgb(1, 172, 252);
+   border:0.1px solid;
+   border-radius: 2px;
+   /* other custom styles */
+ }

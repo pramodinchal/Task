@@ -1,0 +1,106 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(241, 231, 231);
+    font-family: "Poppins", sans-serif;
+  }
+  .container1{
+    height: 260px;
+     margin-top: 10px;
+     background-color: rgb(255, 255, 255);
+     width: 286px;
+     margin-left: 100px;
+     border-radius: 10px;
+     
+  }
+  
+  .header h5{
+    padding-top: 10px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  h6{
+    margin: 0px;
+    margin-left: 16px;
+    margin-top: 6px;
+    margin-bottom: 1px;
+    font-family: "Poppins", sans-serif;
+  }
+  #name{
+    border: 1px solid #ccc;
+    height: 14px;
+    width: 240px;
+    margin-left: 16px;  
+    font-family: "Poppins", sans-serif;
+  }
+  #cname{
+    border: 1px solid #ccc;
+    height: 16px;
+    width: 142px;
+    margin-left: 16px;  
+  }
+  #cname2{
+    border: 1px solid #ccc;
+    height: 12px;
+    width: 82px;
+  }
+  #date1{
+    border: 1px solid #ccc;
+    height: 14px;
+    width: 115px;
+    margin-left: 16px; 
+  }
+  #date2{
+    border: 1px solid #ccc;
+    height: 14px;
+    width: 115px;
+    margin-left: 11px;
+  }
+  #txtarea{
+    border: 1px solid #ccc;
+    margin-left: 16px;
+    width: 240px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  #name:hover,
+  #cname:hover,
+  #cname2:hover, 
+  #date1:hover, 
+  #date2:hover,
+  #txtarea:hover{ 
+    border:1.5px solid rgb(1, 172, 252);
+  }
+  #name:focus,
+  #cname:focus,
+  #cname2:focus,
+  #date1:focus,
+  #date2:focus,
+  #txtarea:focus { 
+    outline: none !important;
+    border-color: rgb(1, 172, 252);
+    box-shadow: 0 0 2px rgb(1, 172, 252);
+  }
+  input[type=text]:focus {
+    border: 1px solid  rgb(1, 172, 252);
+  }
+  #input{
+    padding: 3px 3px;
+  }
+  #nxtbtn1{
+  border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-top: 10px;
+    border-radius: 2px;
+    margin-left: 118px;
+    width: 46px;
+    font-size: xx-small;
+    background-color: rgb(1, 172, 252);
+    color: white;
+  }
+  
